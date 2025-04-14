@@ -5,10 +5,10 @@ Aplicação Loja de produtos.
 C# -
 Asp Net 8 -
 Sql Server -
-BOOTSTRAP -
+Boostrap -
 JAVASCRIPT -
 PADRÃO MVC -
-Repository Pattern -
+Repository Pattern 
 
 * Pagina principal de visualização dos produtos, visualizar detalhes e efetuar compra.
 * Vendas de produtos, login e criação de usuário administrador e cliente,
