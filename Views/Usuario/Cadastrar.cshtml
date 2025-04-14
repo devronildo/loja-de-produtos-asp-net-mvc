@@ -1,0 +1,110 @@
+﻿@using LojaProdutos.Dto.Usuario
+@model CriarUsuarioDto
+@if (TempData["MensagemSucesso"] != null)
+{
+    <div class="alert alert-success" role="alert">
+        @TempData["MensagemSucesso"]
+    </div>
+}
+@if (TempData["MensagemErro"] != null)
+{
+    <div class="alert alert-danger" role="alert">
+        @TempData["MensagemErro"]
+    </div>
+}
+
+<div class="container mt-5">
+    <h2>Cadastrar de Usuários</h2>
+   <form asp-action="Cadastrar" asp-controller="Usuario" method="post">
+          <div class="mb-1">
+               <label class="form-label">Nome Completo:</label>
+               <input type="text" class="form-control shadow-none" asp-for="Nome" />
+          </div>
+        <div class="mb-1">
+            <label class="form-label">Email:</label>
+            <input type="email" class="form-control shadow-none" asp-for="Email" />
+        </div>
+
+          <div class="mb-1">
+               <label class="form-label">Cargo:</label>
+            <select class="form-select shadow-none" asp-for="Cargo">
+                    <option value="Administrador">Admistrador</option>
+                    <option value="Cliente">Cliente</option>               
+            </select>
+          </div>
+
+        <div class="col-12 d-flex gap-1 w-100">
+            <div class="mb-1 col-6">
+                <label class="form-label">Cep</label>
+                <input type="text" class="form-control shadow-none" id="input-cep" asp-for="CEP" />
+            </div>
+             <div class="mb-1 col-6">
+                <label class="form-label">Estado:</label>
+                <input type="text" class="form-control shadow-none" id="input-estado" asp-for="Estado" />
+            </div>
+        </div>
+        <div class="col-12 d-flex gap-1 w-100">
+            <div class="mb-1 col-6">
+                <label class="form-label">Logradouro</label>
+                <input type="text" class="form-control shadow-none" id="input-logradouro" asp-for="Logradouro" />
+            </div>
+            <div class="mb-1 col-6">
+                <label class="form-label">Numero:</label>
+                <input type="text" class="form-control shadow-none" asp-for="Numero" />
+            </div>
+        </div>
+
+        <div class="col-12 d-flex gap-1 w-100">
+            <div class="mb-1 col-6">
+                <label class="form-label">Bairro</label>
+                <input type="text" class="form-control shadow-none" id="input-bairro" asp-for="Bairro" />
+            </div>
+            <div class="mb-1 col-6">
+                <label class="form-label">Complemento:</label>
+                <input type="text" class="form-control shadow-none" id="input-complemento" asp-for="Complemento" />
+            </div>
+        </div>
+        <div class="col-12 d-flex gap-1 w-100">
+            <div class="mb-1 col-6">
+                <label class="form-label">Senha: </label>
+                <input type="password" class="form-control shadow-none" asp-for="Senha" />
+            </div>
+            <div class="mb-1 col-6">
+                <label class="form-label">Confirmar Senha:</label>
+                <input type="password" class="form-control shadow-none" asp-for="ConfirmarSenha" />
+            </div>
+        </div>
+
+        <div class="d-flex mt-3">
+             <button type="submit" class="btn btn-success w-50 mx-1">Cadastrar</button>
+             <a class="btn btn-info w-50" asp-controller="Usuario" asp-action="Index">Voltar</a>
+        </div>
+   </form> 
+</div>
+
+<script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
+
+<script>
+     var inputLogradouro = document.querySelector('#input-logradouro')
+     var inputBairro = document.querySelector('#input-bairro');
+     var inputEstado = document.querySelector('#input-estado');
+      var inputComplemento = document.querySelector('#input-complemento');
+
+    $('#input-cep').focusout(async function (e) {
+        var target = e.target;
+        var value = target.value;
+
+        var url = `https://viacep.com.br/ws/${value}/json/`
+
+        var resposta = await fetch(url);
+        var dados = await resposta.json();
+
+        inputLogradouro.value = dados.logradouro;
+        inputBairro.value = dados.bairro;
+        inputEstado.value = dados.uf;
+        inputComplemento.value = dados.complemento;
+
+
+
+    })
+</script>

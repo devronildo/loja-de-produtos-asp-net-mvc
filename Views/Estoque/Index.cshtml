@@ -1,0 +1,45 @@
+﻿@using LojaProdutos.Models
+@model List<RegistroProdutosModel>
+
+ <div class"container mt-5">
+      <div class="d-flex justify-content-between align-items-center mb-5">
+          <h2>Registro de vendas!</h2>
+            @if (Model.Count() > 0)
+            {
+               <h2>Total Geral - R$ @Model.First().TotalGeral.ToString("F")</h2>
+               <form asp-controller="Estoque" asp-action="GerarRelatorio">
+                    <button class="btn btn-success" type="submit">Gerar Relatório</button>
+               </form>
+            }
+    </div>
+
+    <table class="table table-hover table-bordered  " id="registros">
+        <thead class="table-dark">
+              <tr>
+                    <th class="text-start">Produto Id</th>
+                    <th>Categoria</th>
+                    <th>Data Compra</th>
+                    <th>Valor Vendido</th>
+              </tr>
+         </thead>
+         <tbody>
+            @if (Model !=  null)
+            {
+                @if (Model.Count() > 0)
+                {
+                    @foreach(var registro in Model)
+                    {
+                        <tr>
+                             <td class="text-start">@registro.ProdutoId</td>
+                             <td>@registro.CategoriaNome</td>
+                             <td>@registro.DataCompra.ToShortDateString()</td>
+                             <td>R$ @registro.Total.ToString("F")</td>
+                        </tr>
+                    }
+                }
+
+            }
+        </tbody>
+    </table>
+
+ </div>

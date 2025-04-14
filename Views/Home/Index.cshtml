@@ -1,0 +1,51 @@
+﻿ @using LojaProdutos.Models
+ @model List<ProdutoModel>
+  
+@if (TempData["MensagemSucesso"] != null)
+{
+    <div class="alert alert-success" role="alert">
+        @TempData["MensagemSucesso"]
+    </div>
+}
+@if (TempData["MensagemErro"] != null)
+{
+    <div class="alert alert-danger" role="alert">
+        @TempData["MensagemErro"]
+    </div>
+}
+
+
+     <div class="container">
+          <div class="text-center mb-5">
+              <form method="get" asp-action="Index" asp-controller="Home" class="d-flex justify-content-center">
+                  <input name="pesquisar" class="form-control w-50 mx-2" style="border:1px solid black"/>
+                  <button type="submit" class="btn btn-primary btn w-10"><i class="bi bi-search mx-1"></i>Pesquisar</button>
+              </form>
+          </div>
+          <div class="row row-cols-1 rol-cols-sm-2 row-cols-md-3 g-0">
+            @if (Model != null)
+            {
+                @if(Model.Where(x => x.QuantidadeEstoque > 0).Count() > 0)
+                {
+                 @foreach (var produto in Model.Where(x => x.QuantidadeEstoque > 0))
+                {  
+                      <div class="card" style="width:15rem;margin-left:20px; margin-bottom:20px">
+                            <h5 class="card-title position-absolute" 
+                                style="background-color:#772953; width: 100px; height:30px; color:white; border-bottom-right-radius:10px; padding-left:10px;">  
+                                @produto.Categoria.Nome
+                            </h5>
+                            <img src="/imagem/@produto.Foto" class="card-img-top" style="width: 225px; height: 250px;"/>
+                         <div class="card-body">
+                             <h5 class="card-title">@produto.Nome</h5>
+                             <h5 class="card-title">@produto.Marca</h5>
+                            <h5 class="card-title"><b>R$ @produto.Valor.ToString("F")</b></h5>
+
+                            <a class="btn btn-primary w-100" style="font-size: 16px;" asp-action="Detalhes" asp-controller="Produto" asp-route-id="@produto.Id"><i class="bi bi-newspaper mx-1"></i>Detalhes</a>
+                         </div>   
+                      </div>
+                }
+            }
+            }
+    </div>   
+
+     </div>

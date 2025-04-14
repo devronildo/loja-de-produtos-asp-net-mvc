@@ -1,0 +1,25 @@
+﻿@using LojaProdutos.Dto.Dto
+@model LoginUsuarioDto
+
+@{
+    Layout = "_LayoutDeslogada";
+}
+
+<div class="container">
+     <form asp-controller="Login" asp-action="Login" method="post">
+          <div class="mb-3">
+              <label class="form-label">Email</label>
+              <input type="email" class="form-control" asp-for="Email" />
+          </div>
+
+        <div class="mb-3">
+            <label class="form-label">Senha:</label>
+            <input type="password" class="form-control" asp-for="Senha"/>
+        </div>
+
+        <div class="mb-3">
+            <button type="submit" class="btn btn-primary">Entrar</button>
+        </div>
+     </form>
+
+</div>

@@ -1,0 +1,301 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\LojaProdutos.bundle.scp.css",
+      "PackagePath": "staticwebassets\\LojaProdutos.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\css\\YET.css",
+      "PackagePath": "staticwebassets\\css\\YET.css"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\imagem\\304023997_115189964650490_3105921369011509038_n.jpg9fa92a84-743e-4a95-aa31-0f54f091c51b.png",
+      "PackagePath": "staticwebassets\\imagem\\304023997_115189964650490_3105921369011509038_n.jpg9fa92a84-743e-4a95-aa31-0f54f091c51b.png"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\imagem\\coca-zero21-16e7cba0588363da7616192142363168-1024-1024.webp272bb7b8-8f6b-4cd8-8ac7-2c927fd778a0.png",
+      "PackagePath": "staticwebassets\\imagem\\coca-zero21-16e7cba0588363da7616192142363168-1024-1024.webp272bb7b8-8f6b-4cd8-8ac7-2c927fd778a0.png"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\imagem\\coca-zero21-16e7cba0588363da7616192142363168-1024-1024.webp27d3f068-5ebe-4a34-8210-102c6315c495.png",
+      "PackagePath": "staticwebassets\\imagem\\coca-zero21-16e7cba0588363da7616192142363168-1024-1024.webp27d3f068-5ebe-4a34-8210-102c6315c495.png"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\imagem\\cocazero.jpge40d8121-8465-4e61-9cdf-51b1b6cd32e4.png",
+      "PackagePath": "staticwebassets\\imagem\\cocazero.jpge40d8121-8465-4e61-9cdf-51b1b6cd32e4.png"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\imagem\\cocazero.jpgead221ac-335f-4b9c-b3d1-963536dd4769.png",
+      "PackagePath": "staticwebassets\\imagem\\cocazero.jpgead221ac-335f-4b9c-b3d1-963536dd4769.png"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\imagem\\img1.jpg074b73eb-30fb-469f-a659-22856557e2b6.png",
+      "PackagePath": "staticwebassets\\imagem\\img1.jpg074b73eb-30fb-469f-a659-22856557e2b6.png"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\imagem\\img1.jpg350726dd-0462-4948-886c-35adb356bfc5.png",
+      "PackagePath": "staticwebassets\\imagem\\img1.jpg350726dd-0462-4948-886c-35adb356bfc5.png"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\imagem\\img2.jpgbb83ed63-9690-46b9-82d3-07781a7a79f8.png",
+      "PackagePath": "staticwebassets\\imagem\\img2.jpgbb83ed63-9690-46b9-82d3-07781a7a79f8.png"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ronil\\source\\repos\\LojaProdutos\\LojaProdutos\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.LojaProdutos.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.LojaProdutos.props",
+      "PackagePath": "build\\LojaProdutos.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.LojaProdutos.props",
+      "PackagePath": "buildMultiTargeting\\LojaProdutos.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.LojaProdutos.props",
+      "PackagePath": "buildTransitive\\LojaProdutos.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

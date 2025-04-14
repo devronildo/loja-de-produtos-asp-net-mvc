@@ -1,0 +1,57 @@
+﻿@using LojaProdutos.Models
+@model List<UsuarioModel>
+
+@if (TempData["MensagemSucesso"] != null)
+{
+    <div class="alert alert-success" role="alert">
+        @TempData["MensagemSucesso"]
+    </div>
+}
+@if (TempData["MensagemErro"] != null)
+{
+    <div class="alert alert-danger" role="alert">
+        @TempData["MensagemErro"]
+    </div>
+}
+    <div class="container mt-5">
+        <div class="d-flex justify-content-between align-items-center mb-3">
+             <h2>Listagem de Usuários</h2>
+             <a asp-controller="Usuario" asp-action="cadastrar" class="btn btn-success">Cadastrar novo usuário</a>
+        </div>
+
+        <table class="table table-hover table-bordered" id="registros">
+             <thead>
+                  <tr>
+                        <th>Cargo</th>
+                        <th>Nome</th>
+                        <th>Estado</th>
+                        <th>Email</th>
+                        <th>Data de Criação</th>
+                        <th>Data de Alteração</th>
+                        <th></th>
+                  </tr>
+             </thead>
+             <tbody>
+                @if(Model != null)
+                {
+                    @if(Model.Count() > 0)
+                    {
+                    @foreach(var usuario in Model)
+                    {
+                         <tr>
+                              <td>@usuario.Cargo</td>
+                              <td>@usuario.Nome</td>
+                              <td>@usuario.Endereco.Estado</td>
+                              <td>@usuario.Email</td>
+                              <td>@usuario.DataCadastro.ToString("dd/MM/yyyy hh:mm")</td>
+                            <td>@usuario.DataAlteracao.ToString("dd/MM/yyyy hh:mm")</td>
+                                <td>
+                                    <a asp-controller="Usuario" asp-action="Editar" asp-route-id="@usuario.Id" class="btn btn-info btn"><i class="bi bi-pencil"></i>Editar</a>
+                                </td>
+                         </tr>
+                    }
+                }
+            }
+        </tbody>
+        </table>
+    </div>
