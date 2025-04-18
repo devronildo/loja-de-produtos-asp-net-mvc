@@ -9,6 +9,8 @@ ASP.NET 8
 
 SQL Server
 
+EF
+
 Bootstrap
 
 JavaScript
