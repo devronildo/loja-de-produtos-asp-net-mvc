@@ -17,6 +17,7 @@ Padrão MVC
 Repository Pattern
 
 🚀 Funcionalidades
+
 📹 Página principal de visualização dos produtos e seus detalhes
 
 📉 Realizar a baixa de produtos após a compra
