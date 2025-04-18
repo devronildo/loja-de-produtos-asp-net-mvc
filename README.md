@@ -1,6 +1,7 @@
 🛍️ Aplicação Loja de Produtos
-🚀 Tecnologias
-Este projeto foi desenvolvido com as seguintes tecnologias e padrões:
+
+
+🚀  Este projeto foi desenvolvido com as seguintes tecnologias e padrões:
 
 C#
 
