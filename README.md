@@ -1,19 +1,33 @@
-Aplicação Loja de produtos.
+🛍️ Aplicação Loja de Produtos
+🚀 Tecnologias
+Este projeto foi desenvolvido com as seguintes tecnologias e padrões:
 
-🚀 Tecnologias. Este projeto foi desenvolvido com as seguintes tecnologias e padrões:
+C#
 
-C# -
-Asp Net 8 -
-Sql Server -
-Boostrap -
-JAVASCRIPT -
-PADRÃO MVC -
-Repository Pattern 
+ASP.NET 8
 
-* Pagina principal de visualização dos produtos, visualizar detalhes e efetuar compra.
-* Vendas de produtos, login e criação de usuário administrador e cliente,
-* Gerar Relátorio de vendas excel,
-* Estoque, Registro de vendas.
-* Crud de produtos.
+SQL Server
+
+Bootstrap
+
+JavaScript
+
+Padrão MVC
+
+Repository Pattern
+
+🚀 Funcionalidades
+📹 Página principal de visualização dos produtos e seus detalhes
+
+📉 Realizar a baixa de produtos após a compra
+
+📊 Gerar relatórios em Excel com as informações da loja
+
+🔐 Implementar autenticação com criptografia de senhas e criação de usuário administrador e cliente
+
+🖼️ Importação de imagens para cada item
+
+🛠️ CRUD completo de produtos
+
 
 
