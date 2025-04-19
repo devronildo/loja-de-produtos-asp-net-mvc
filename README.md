@@ -1,23 +1,23 @@
 🛍️ Aplicação Loja de Produtos
 
 
-🚀  Este projeto foi desenvolvido com as seguintes tecnologias e padrões:
+ ✅ 🚀  Este projeto foi desenvolvido com as seguintes tecnologias e padrões:
 
-C#
+ ✅ C#
 
-ASP.NET 8
+ ✅ ASP.NET 8
 
-SQL Server
+ ✅ SQL Server
 
-EF
+ ✅ EF
 
-Bootstrap
+ ✅ Bootstrap
 
-JavaScript
+ ✅ JavaScript
 
-Padrão MVC
+ ✅ Padrão MVC
 
-Repository Pattern
+ ✅ Repository Pattern
 
 🚀 Funcionalidades
 
